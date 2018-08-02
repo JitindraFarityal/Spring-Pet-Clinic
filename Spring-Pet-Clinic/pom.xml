@@ -48,8 +48,5 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<developerConnection>scm:git:https://github.com/JitindraFarityal/Spring-Pet-Clinic.git</developerConnection>
-  </scm>
 
 </project>
