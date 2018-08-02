@@ -1,4 +1,4 @@
-package com.example.jitindra.SpringPetClinic.model;
+package com.example.jitindra.SpringPetClinic.model.model;
 
 import java.time.LocalDate;
 
