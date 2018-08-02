@@ -1,4 +1,4 @@
-package SpringPetClinic;
+package com.example.jitindra.SpringPetClinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
