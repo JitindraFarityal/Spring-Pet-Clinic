@@ -1,4 +1,4 @@
-package com.example.jitindra.SpringPetClinic.model.model;
+package com.example.jitindra.SpringPetClinic.model;
 
 public class Person {
 
