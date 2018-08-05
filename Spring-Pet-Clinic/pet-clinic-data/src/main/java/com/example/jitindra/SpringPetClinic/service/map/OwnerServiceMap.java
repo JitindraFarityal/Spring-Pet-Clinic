@@ -1,12 +1,17 @@
 package com.example.jitindra.SpringPetClinic.service.map;
 
 import com.example.jitindra.SpringPetClinic.model.Owner;
-import com.example.jitindra.SpringPetClinic.service.CrudService;
+import com.example.jitindra.SpringPetClinic.service.OwnerService;
 
 import java.util.Set;
 
 public class OwnerServiceMap extends AbstractMapService<Owner,Long>
-        implements CrudService<Owner,Long> {
+        implements OwnerService{
+    @Override
+    public Owner findByLastName(String lastName) {
+        return null;
+    }
+
     @Override
     public Set<Owner> findAll() {
         return super.findAll();
